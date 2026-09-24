@@ -176,19 +176,19 @@ The dashboard is designed for security operations workflows with a dark interfac
 
 ### Main Dashboard
 
-![ThreatHunter SIEM Main Dashboard](./screenshots/Main.png)
+![ThreatHunter SIEM Main Dashboard](Main.png)
 
 ### Alert Details
 
-![ThreatHunter SIEM Alert Details](./screenshots/Alert%20details.png)
+![ThreatHunter SIEM Alert Details](Alert%20details.png)
 
 ### AI Chat
 
-![ThreatHunter SIEM AI Chat](./screenshots/Ai%20chat.png)
+![ThreatHunter SIEM AI Chat](Ai%20chat.png)
 
 ### Settings
 
-![ThreatHunter SIEM Settings](./screenshots/Settings.png)
+![ThreatHunter SIEM Settings](Settings.png)
 
 ## Getting Started
 

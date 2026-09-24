@@ -1,0 +1,24 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8443,
+        "tls_enabled": false
+    },
+    "agent": {
+        "id": "test-agent-001",
+        "queue_db_path": "local_data/queue.db",
+        "log_level": "INFO",
+        "heartbeat_interval_sec": 5
+    },
+    "suricata": {
+        "binary_path": null,
+        "config_path": null,
+        "eve_json_path": "../test_env/suricata/eve.json",
+        "mock_mode": true
+    },
+    "security": {
+        "client_cert_path": "local_certs\\client.crt",
+        "client_key_path": "local_certs\\client.key",
+        "ca_cert_path": "local_certs\\ca.crt"
+    }
+}

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic
+alembic
+passlib[argon2]
+argon2-cffi
+pyjwt
+python-multipart
+python-dateutil

@@ -246,6 +246,11 @@ GitHub: @AHZ710
 
 LinkedIn: https://www.linkedin.com/in/ahmed-hassan-al-zahrani-189377439?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+ 🧑‍💻Abdullah Al-Otaibi
+
+GitHub: @Abdullah11Mohammed
+
+LinkedIn: https://www.linkedin.com/in/عبدالله‌-محمد-العتيبي-65a915331?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ## Development
 

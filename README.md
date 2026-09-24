@@ -231,9 +231,12 @@ Anas Al-Harbi
 Nader Al-Otaibi
 
 GitHub: @7jap
+
 LinkedIn: https://www.linkedin.com/in/anas-alluqmani-617208304/
 
+
 GitHub: @certifiednader
+
 LinkedIn: https://www.linkedin.com/in/nader-al-otaibi-163690317?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 

@@ -3,6 +3,7 @@
 A modern, lightweight Security Information and Event Management (SIEM) platform designed for real-time security monitoring, alert management, endpoint telemetry, and AI-assisted threat analysis.
 
 ## Overview
+![ThreatHunter SIEM Main Dashboard](Main.png)
 
 ThreatHunter SIEM provides a centralized platform for collecting security telemetry from endpoint agents, detecting and monitoring security events, and investigating alerts through a modern web dashboard.
 

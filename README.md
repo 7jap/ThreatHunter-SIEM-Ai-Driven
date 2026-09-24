@@ -226,6 +226,17 @@ See:
 siem-agent/README.md
 ```
 
+## Developers
+Anas Al-Harbi
+Nader Al-Otaibi
+
+GitHub: @7jap
+LinkedIn: https://www.linkedin.com/in/anas-alluqmani-617208304/
+
+GitHub: @certifiednader
+LinkedIn: https://www.linkedin.com/in/nader-al-otaibi-163690317?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
 ## Development
 
 ThreatHunter SIEM is structured as separate services so that the server, frontend, and endpoint agent can be developed and deployed independently.
